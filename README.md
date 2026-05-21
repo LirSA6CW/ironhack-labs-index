@@ -6,8 +6,24 @@
 
 - https://gist.github.com/ironhack-edu/f5cf405db1708c201ad774ee4516bc94 (Enlazr al propio archivo del documento)
 - Pull request para evaluar
+- Todos los labs van enlazados a la resolución del ejercicio
 
 ## Labs
 
+### Lab. 01: Java fundamentals
+
 [Lab 1](https://github.com/LirSA6CW/lab-java-basics)
+
+### Lab. 02: Interfaces and Abstract clases
+
+[Lab 2](https://github.com/LirSA6CW/lab-java-interfaces-and-abstract-classes/tree/IronHack-Java-Lab.-Task_02_Exercise-solution)
+
+### Lab. 03: Spring boot fundamentals
+
+[Lab 3](https://github.com/LirSA6CW/lab-java-springboot-fundamentals/tree/IronHack-Java-Lab.-Task_03_Exercise-solution)
+
+### Lab. 04: Spring Boot REST API
+
+[Lab 4](https://github.com/LirSA6CW/lab-java-springboot-rest-api/tree/IronHack-Java-Lab.-Task_04_Exercise-solution)
+
 
