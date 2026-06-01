@@ -29,3 +29,5 @@
 [Lab 4](https://github.com/LirSA6CW/lab-java-springboot-rest-api/tree/IronHack-Java-Lab.-Task_04_Exercise-solution)
 
 
+### Lab. 05: Normalization ddl aggregation
+[Lab 5](https://github.com/ironhack-labs/lab-java-normalization-ddl-aggregation)
