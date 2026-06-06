@@ -40,3 +40,12 @@
 - The API was tested with Talend API Tester using Bearer authentication.
 - Authorization: Bearer weld-line-token
 - En el apartado "MySQL Setup": Replace your_password with your local MySQL password.
+
+
+#### Presentación
+
+Las request de talent api
+
+GET http://localhost:8080/production-lines
+POST http://localhost:8080/repair-incidents
+DELETE http://localhost:8080/repair-incidents/1
