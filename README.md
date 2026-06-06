@@ -39,3 +39,4 @@
 
 - The API was tested with Talend API Tester using Bearer authentication.
 - Authorization: Bearer weld-line-token
+- En el apartado "MySQL Setup": Replace your_password with your local MySQL password.
