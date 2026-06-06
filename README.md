@@ -46,6 +46,8 @@
 
 Las request de talent api
 
-GET http://localhost:8080/production-lines
-POST http://localhost:8080/repair-incidents
-DELETE http://localhost:8080/repair-incidents/1
+- GET http://localhost:8080/production-lines
+
+- POST http://localhost:8080/repair-incidents
+
+- DELETE http://localhost:8080/repair-incidents/1
