@@ -31,3 +31,11 @@
 
 ### Lab. 05: Normalization ddl aggregation
 [Lab 5](https://github.com/ironhack-labs/lab-java-normalization-ddl-aggregation)
+
+
+### Lab.99: Proyecto final
+
+#### Anotaciones
+
+- The API was tested with Talend API Tester using Bearer authentication.
+- Authorization: Bearer weld-line-token
