@@ -42,6 +42,9 @@
 - En el apartado "MySQL Setup": Replace your_password with your local MySQL password.
 
 
+
+
+
 #### Presentación
 
 Las request de talent api
@@ -51,3 +54,14 @@ Las request de talent api
 - POST http://localhost:8080/repair-incidents
 
 - DELETE http://localhost:8080/repair-incidents/1
+
+
+#### Versiones
+
+Tras la presentación, se da feedback y se pide añadir en la siguiente versión:
+
+- tokens con strings
+- log de registro de las request para tener un historial.
+- log id para cada línea de producción
+
+
