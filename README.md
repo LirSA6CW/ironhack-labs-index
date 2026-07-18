@@ -8,6 +8,21 @@
 - Pull request para evaluar
 - Todos los labs van enlazados a la resolución del ejercicio
 
+## Clases de teoría
+
+
+### W13
+
+- Modelos de IA: ¿Qué es un transformer?
+
+https://poloclub.github.io/transformer-explainer/
+
+- Estructura de un Spring Boot:
+
+https://start.spring.io
+
+
+
 ## Labs
 
 ### Lab. 01: Java fundamentals
